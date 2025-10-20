@@ -1,0 +1,1 @@
+print("Executando tarefas fornecidas pelo git, como add, commit, push, etc.")
